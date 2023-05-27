@@ -1,5 +1,5 @@
 
-Hi, I’m @wolfinux 🐺
+Hi ! 🐺
 
 <!---
 wolfinux/wolfinux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
